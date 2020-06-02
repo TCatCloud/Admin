@@ -1,4 +1,4 @@
-window.v2board = {
+window.settings = {
   // 站点标题
   title: 'TCat云服务',
   // API
@@ -10,5 +10,5 @@ window.v2board = {
     color: 'default'
   },
   // 背景
-  background_url: 'https://moexin.coding.net/p/Picture/d/Picture/git/raw/master/CatBG1.jpg'
+  background_url: 'https://cdn.jsdelivr.net/gh/MoexinCDN/Picture@master/CatBG1.jpg'
 }
