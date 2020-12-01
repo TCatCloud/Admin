@@ -2,7 +2,7 @@ window.settings = {
   // 站点标题
   title: 'TCat云服务',
   // API
-  host: 'https://api.tcat.li',
+  host: 'https://api.tcat.ltd',
   // 主题
   theme: {
     sidebar: 'light',
