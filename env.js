@@ -10,5 +10,5 @@ window.settings = {
     color: 'default'
   },
   // 背景
-  background_url: 'https://cdn.jsdelivr.net/gh/MoexinCDN/TCat@master/TCatBG1.jpg'
+  background_url: 'https://cdn.jsdelivr.net/gh/TCatCloud/Static@master/TCatBG1.jpg'
 }
