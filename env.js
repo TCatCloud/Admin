@@ -1,0 +1,1 @@
+window.settings={title:"TCat云服务",host:"https://api.tcat.cc",theme:{sidebar:"light",header:"dark",color:"default"},background_url:"https://cdn.jsdelivr.net/gh/TCatCloud/Static/TCatBG1.jpg"};
