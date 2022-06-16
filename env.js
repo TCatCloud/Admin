@@ -1,1 +1,1 @@
-window.settings={title:"TCat云服务",host:"https://api.tcat.cc",theme:{sidebar:"light",header:"dark",color:"default"},background_url:"https://cdn.jsdelivr.net/gh/TCatCloud/Static/TCatBG1.jpg"};
+window.settings={title:"TCat云服务",host:"https://api.tcat.cc",theme:{sidebar:"light",header:"dark",color:"default"},background_url:"https://dqb.pw/d/%E4%B8%96%E7%BA%AA%E4%BA%92%E8%81%94/%E5%9B%BE%E7%89%87/TCatBG1.jpg",logo:"https://dqb.pw/d/%E4%B8%96%E7%BA%AA%E4%BA%92%E8%81%94/%E5%9B%BE%E7%89%87/TCatLogo.png"};
