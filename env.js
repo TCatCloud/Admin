@@ -1,1 +1,1 @@
-window.settings={title:"TCat云服务",host:"https://api.tcat.cc",theme:{sidebar:"light",header:"dark",color:"default"},background_url:"https://jpg.im.sb/images/2022/07/29/28675fc21c1982acfb4ea30bb24ec35b.jpg"};
+window.settings={title:'TCat云服务',host:'https://api.tcat.cc',theme:{sidebar:'light',header:'dark',color:'default'},background_url:'https://jpg.im.sb/images/2022/07/29/28675fc21c1982acfb4ea30bb24ec35b.jpg'}
