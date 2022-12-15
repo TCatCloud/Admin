@@ -1,1 +1,1 @@
-window.settings={title:'TCat云服务',host:'https://api.tcat.cc',theme:{sidebar:'light',header:'dark',color:'default'},background_url:'https://cdn.staticaly.com/gh/TCatCloud/Static/master/TCatBG1.jpg'}
+window.settings={title:"TCat云服务",host:"https://api.tcat.cc",theme:{sidebar:"light",header:"dark",color:"default"},secure_path:"Moexin"};
